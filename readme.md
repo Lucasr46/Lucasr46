@@ -1,4 +1,4 @@
-# Olá, eu sou o Lucas! 👋
+# Hi, I'm Lucas! 👋
 
 <div align="center">
   <a href="https://github.com/lucasr46">
